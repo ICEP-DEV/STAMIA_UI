@@ -1,0 +1,7 @@
+{
+  "name": "stamia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

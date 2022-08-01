@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "stamia",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
